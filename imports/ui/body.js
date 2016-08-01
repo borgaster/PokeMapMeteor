@@ -2,7 +2,7 @@ import { Template } from 'meteor/templating';
 import { Meteor } from 'meteor/meteor'
 import { Pokemons } from '../api/api.js';
 //import { GoogleMaps } from 'meteor/dburles:google-maps';
-let apiKey = 'AIzaSyCQsGYC2owiU0vWjINJ_eQRfLRyRProTBQ';
+let apiKey = '<api key>';
 let username = '<username>'
 let password = '<password>'
 let provider = '<provider>'
