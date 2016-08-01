@@ -1,0 +1,26 @@
+{
+  "name": "newpokemap",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "geocoder": "^0.2.2",
+    "meteor-node-stubs": "^0.2.3",
+    "moment": "^2.14.1",
+    "npm-exists": "^0.1.0",
+    "pokemon-go-api": "0.0.11",
+    "s2geometry-node": "^1.3.1",
+    "upper-case": "^1.1.3"
+  },
+  "version": "1.0.0",
+  "description": "Pokemon Map",
+  "main": "main.js",
+  "devDependencies": {},
+  "keywords": [
+    "Pokemon"
+  ],
+  "author": "Andre Bastos",
+  "license": "ISC"
+}
